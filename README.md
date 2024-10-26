@@ -1,10 +1,10 @@
 # jogo_tec_lib
 
-## Objetivo Principal
+### Objetivo Principal
 
-## descrição do jogo
+### descrição do jogo
 
-## principais funções
+### principais funções
 
 ### Integrantes do Grupo
 
@@ -14,6 +14,6 @@
 | Antônio Tenório    | Developer          | @antoniotfs        |
 | Gustavo Ferraz     | Developer          | @gustvalho         |
 
-## Disciplina: Programação Imperativa e Funcional - 2024.2
-## Instituição de ensino: CESAR School
+### Disciplina: Programação Imperativa e Funcional - 2024.2
+### Instituição de ensino: CESAR School
 
