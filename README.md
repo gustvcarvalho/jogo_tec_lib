@@ -8,9 +8,12 @@
 
 ### Integrantes do Grupo
 
-| Nome               | Função             |
-|--------------------|--------------------|
-| Airon Valentim     | Developer          |
-| Antônio Tenório    | Developer          |
-| Gustavo Ferraz     | Developer          |
+| Nome               | Função             | GitHub             | 
+|--------------------|--------------------|--------------------|
+| Airon Valentim     | Developer          | @aironvalentim     |
+| Antônio Tenório    | Developer          | @antoniotfs        |
+| Gustavo Ferraz     | Developer          | @gustvalho         |
+
+## Disciplina: Programação Imperativa e Funcional - 2024.2
+## Instituição de ensino: CESAR School
 
