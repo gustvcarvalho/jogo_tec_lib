@@ -12,7 +12,7 @@
 |--------------------|--------------------|--------------------|
 | Airon Valentim     | Developer          | @aironvalentim     |
 | Antônio Tenório    | Developer          | @antoniotfs        |
-| Gustavo Ferraz     | Developer          | @gustvalho         |
+| Gustavo Ferraz     | Developer          | @gustvcarvalho     |
 
 ### Disciplina: Programação Imperativa e Funcional - 2024.2
 ### Instituição de ensino: CESAR School
